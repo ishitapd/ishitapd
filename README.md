@@ -45,8 +45,8 @@ Software engineering roles (junior/entry-level) — remote or on-site — or fre
 *If something here looks interesting, star it, fork it, or just say hi.*
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitapd&theme=radical&hide_border=true" />
-<img src="https://github-profile-trophy.vercel.app/?username=ishitapd&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitapd&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ishitapd&theme=radical&no-frame=true&row=1&column=6" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishitapd&color=6366F1&style=flat)
 ![Status](https://img.shields.io/badge/status-open_to_work-brightgreen?style=flat-square)
