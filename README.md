@@ -1,6 +1,6 @@
 # Hey, I'm Ishita 👋
 
-I build full-stack apps and ML systems, then figure out how to make them actually work outside a Jupyter notebook. CS student based in Chandigarh, currently looking for **remote junior/full-stack roles** and **freelance projects** involving Python, ML, or the MERN stack.
+I build full-stack apps and ML systems, then figure out how to make them actually work outside a Jupyter notebook. CS student based in Chandigarh, currently looking for **junior/full-stack roles** — remote or on-site — and **freelance projects** involving Python, ML, or the MERN stack.
 
 I like taking a project from "does this even work" to "someone besides me could use this."
 
@@ -37,10 +37,10 @@ Built to learn the full lifecycle — preprocessing, feature engineering, model 
 - *(Add your current focus — new project, learning a tool, open to specifics)*
 
 ## What I'm looking for
-Remote software engineering roles (junior/entry-level) or freelance work in Python, ML/NLP, or full-stack (MERN). If you're building something and need an extra pair of hands, my inbox is open.
+Software engineering roles (junior/entry-level) — remote or on-site — or freelance work in Python, ML/NLP, or full-stack (MERN). If you're building something and need an extra pair of hands, my inbox is open.
 
 ## Let's talk
 📫 [LinkedIn](https://www.linkedin.com/in/ishita-prasad-68968a238)
-📍 Chandigarh, India (open to remote)
+📍 Based in Chandigarh, India — open to relocating or working remotely
 
 *If something here looks interesting, star it, fork it, or just say hi.*
