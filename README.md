@@ -1,5 +1,4 @@
 # Hey, I'm Ishita 👋
-[![Typing SVG](...)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ishita+%F0%9F%91%8B;Building+ML+%26+Full-Stack+Projects;Open+to+Remote+%2F+On-site+Roles)](https://git.io/typing-svg)
 
 I build full-stack apps and ML systems, then figure out how to make them actually work outside a Jupyter notebook. CS student based in Chandigarh, currently looking for **junior/full-stack roles** — remote or on-site — and **freelance projects** involving Python, ML, or the MERN stack.
@@ -7,7 +6,6 @@ I build full-stack apps and ML systems, then figure out how to make them actuall
 I like taking a project from "does this even work" to "someone besides me could use this."
 
 ---
-![snake gif](https://raw.githubusercontent.com/ishitapd/ishitapd/output/github-contribution-grid-snake.svg)
 ## What I work with
 <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,flask,spring,mongodb,aws,git" />
 **Languages:** Python, JavaScript, Java
