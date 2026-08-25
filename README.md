@@ -10,7 +10,7 @@ I like taking a project from "does this even work" to "someone besides me could 
 
 **Languages:** Python, JavaScript, Java
 **ML / NLP:** Scikit-learn, NLTK, TF-IDF, ensemble models (stacking, boosting)
-**Web:** MongoDB, Express, React, Node.js, Flask
+**Web:** MongoDB, Express, React, Node.js, Flask, Spring Boot
 **Cloud/Infra:** AWS
 **Tools:** Git, REST APIs, Pickle/model serialization
 
@@ -25,10 +25,10 @@ Built to learn the full lifecycle — preprocessing, feature engineering, model 
 
 `Python` `Flask` `Scikit-learn` `NLTK`
 
-### 💸 [UPI Without Internet](https://github.com/ishitapd/UPI_Without_Internet)
-*(Add 1-2 sentences here on what problem this solves and how — e.g., "A USSD-based UPI payment simulator for users without internet access, built for [hackathon/course/personal project].")*
+### 📡 [UPI Offline Mesh — Server & Simulator](https://github.com/ishitapd/UPI_Without_Internet)
+A Spring Boot backend that simulates offline UPI payments routed through a Bluetooth-style mesh network — imagine you're in a basement with no signal, and your payment hops phone-to-phone until one of them finds internet and settles it. Solves three genuinely hard problems: encrypting a payment so untrusted intermediary phones can't read or tamper with it (hybrid RSA + AES-GCM), guaranteeing a duplicate delivery only settles once even under concurrent load (atomic idempotency, tested with a multi-threaded race), and rejecting replayed or tampered packets. Ships with an interactive web dashboard to run the whole flow live, plus a README that's upfront about what the concept can't solve in the real world.
 
-`Java`
+`Java` `Spring Boot` `Maven`
 
 ---
 
