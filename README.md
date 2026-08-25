@@ -13,7 +13,8 @@ I like taking a project from "does this even work" to "someone besides me could 
 **Web:** MongoDB, Express, React, Node.js, Flask, Spring Boot
 **Cloud/Infra:** AWS
 **Tools:** Git, REST APIs, Pickle/model serialization
-
+<img src="https://github-readme-stats.vercel.app/api?username=ishitapd&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitapd&layout=compact&theme=radical&hide_border=true" width="48%" />
 ---
 
 ## Featured projects
@@ -44,3 +45,8 @@ Software engineering roles (junior/entry-level) — remote or on-site — or fre
 📍 Based in Chandigarh, India — open to relocating or working remotely
 
 *If something here looks interesting, star it, fork it, or just say hi.*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitapd&theme=radical&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=ishitapd&theme=radical&no-frame=true&row=1&column=6" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=ishitapd&color=6366F1&style=flat)
+![Status](https://img.shields.io/badge/status-open_to_work-brightgreen?style=flat-square)
