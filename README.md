@@ -1,5 +1,5 @@
 # Hey, I'm Ishita 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ishita+%F0%9F%91%8B;Building+Data%2C+ML+%26+Software+Projects;Open+to+Data+%26+Software+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Data+Engineer;AI%2FML+%7C+Machine+Learning;Software+Engineer+%7C+SDE;Building+Data%2C+ML+%26+Software+Projects;Open+to+Entry-Level+Opportunities)](https://git.io/typing-svg)
 
 I'm a Computer Science Engineering graduate building practical projects across **Data Analytics, Data Engineering, AI/ML, and Software Development**. I work with Python, SQL, Power BI, AWS, machine learning, backend development, and full-stack technologies.
 
@@ -19,21 +19,35 @@ I like taking a project from "does this even work" to "someone besides me could 
 
 ---
 
-## Featured projects
+## Featured Projects
+
+### 📊 [Sales Performance & Business Analytics Dashboard](https://github.com/ishitapd/sales-performance-dashboard)
+
+An executive retail analytics project combining **data cleaning, business analysis, KPI modeling, interactive dashboards, predictive sales forecasting, and RFM customer segmentation**.
+
+Built using Python, Pandas, SQL, Excel, Power Query, Power BI, DAX, and Tableau, with interactive filtering, product drill-downs, data exports, and business-focused insights.
+
+**Key areas:** Data Engineering & Cleaning • KPI Analysis • DAX • Power BI • Tableau • Forecasting • RFM Segmentation
+
+`Python` `Pandas` `SQL` `Excel` `Power BI` `DAX` `Tableau`
+
+🔗 [View Repository](https://github.com/ishitapd/sales-performance-dashboard)  
+🌐 [Live Dashboard](https://sales-performance-dashboard-ten.vercel.app/)
+
+---
 
 ### 🔍 [TruthLens — AI-Powered Fake News Detection](https://github.com/ishitapd/truthlens-fake-news-detector)
 
 An end-to-end NLP and machine learning web application that analyzes news text and predicts whether it is likely to be fake or real.
 
-Built with a complete workflow covering **text preprocessing, feature extraction, machine learning models, prediction, REST APIs, database integration, and deployment**. The project helped me work through the full ML lifecycle rather than stopping at model training.
+The project covers the complete ML workflow from **text preprocessing and TF-IDF feature extraction to model training, ensemble learning, evaluation, REST APIs, and Flask deployment**.
 
-`Python` `Flask` `Scikit-learn` `NLP` `SQL` `REST APIs`
+`Python` `NLP` `Scikit-learn` `Flask` `SQL` `REST APIs`
 
-### 📊 Sales & Business Performance Analytics
+🔗 [View Repository](https://github.com/ishitapd/truthlens-fake-news-detector)  
+🌐 [Live Demo](https://truthlens-gn2w.onrender.com/)
 
-A data analytics project focused on analyzing sales performance, business KPIs, trends, and product-level insights through data cleaning, analysis, and interactive dashboards.
-
-`Python` `SQL` `Power BI` `Excel` `Pandas` `Data Visualization`
+---
 
 ### 👥 Customer Churn & Retention Analytics
 
@@ -41,21 +55,32 @@ An analytics project focused on understanding customer behavior, identifying chu
 
 `Python` `SQL` `Power BI` `Pandas` `Data Cleaning` `Data Visualization`
 
+🔗 [View Projects](https://github.com/ishitapd)
+
 ---
 
 ## What I'm looking for
 
-I'm open to **entry-level opportunities** in **Data Analytics, Data Engineering, AI/ML, and Software Development (SDE)**.
+I'm open to **entry-level opportunities** in:
+
+- 📊 Data Analytics
+- ⚙️ Data Engineering
+- 🤖 AI / Machine Learning
+- 💻 Software Development / SDE
 
 I'm also open to **remote opportunities and freelance projects** involving Python, SQL, data analytics, machine learning, backend development, or full-stack development.
 
 If you're building something and need an extra pair of hands, my inbox is open.
 
+---
+
 ## Let's talk
 
-📫 [LinkedIn](https://www.linkedin.com/in/ishita-prasad-68968a238)
+📫 [LinkedIn](https://www.linkedin.com/in/ishita-prasad-68968a238/)
 
 💻 [LeetCode](https://leetcode.com/u/Ishitaprasad7/)
+
+🐙 [GitHub](https://github.com/ishitapd)
 
 🌐 [TruthLens Live Demo](https://truthlens-gn2w.onrender.com/)
 
