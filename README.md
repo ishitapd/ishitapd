@@ -1,36 +1,65 @@
 # Hey, I'm Ishita 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ishita+%F0%9F%91%8B;Building+ML+%26+Full-Stack+Projects;Open+to+Remote+%2F+On-site+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ishita+%F0%9F%91%8B;Building+Data%2C+ML+%26+Software+Projects;Open+to+Data+%26+Software+Roles)](https://git.io/typing-svg)
 
-I build full-stack apps and ML systems, then figure out how to make them actually work outside a Jupyter notebook. CS student based in Chandigarh, currently looking for **junior/full-stack roles** — remote or on-site — and **freelance projects** involving Python, ML, or the MERN stack.
+I'm a Computer Science Engineering graduate building practical projects across **Data Analytics, Data Engineering, AI/ML, and Software Development**. I work with Python, SQL, Power BI, AWS, machine learning, backend development, and full-stack technologies.
 
-I like taking a project from "does this even work" to "someone besides me could use this."
+I like taking a project from "does this even work" to "someone besides me could actually use it."
 
 ---
+
 ## What I work with
-<img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,flask,spring,mongodb,aws,git" />
-**Languages:** Python, JavaScript, Java
-**ML / NLP:** Scikit-learn, NLTK, TF-IDF, ensemble models (stacking, boosting)
-**Web:** MongoDB, Express, React, Node.js, Flask, Spring Boot
-**Cloud/Infra:** AWS
-**Tools:** Git, REST APIs, Pickle/model serialization
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,flask,mongodb,mysql,aws,git" />
+
+**Languages:** Python, SQL, C++, JavaScript  
+**Data & Analytics:** Power BI, Excel, Power Query, Tableau, Pandas, NumPy, Data Cleaning, Data Visualization  
+**ML / AI:** Scikit-learn, NLP, NLTK, TF-IDF, Feature Engineering, Model Evaluation  
+**Web / Backend:** Flask, REST APIs, React, Node.js, MongoDB, MySQL, HTML, CSS  
+**Cloud / Tools:** AWS, Git, GitHub, VS Code, Jupyter Notebook  
+**Core CS:** Data Structures, Algorithms, OOP, DBMS, Operating Systems, Computer Networks, SDLC
+
 ---
 
 ## Featured projects
 
-### 🔍 [TruthLens — Fake News Detection](https://github.com/ishitapd/truthlens-fake-news-detector)
-An end-to-end NLP pipeline that stacks 6 ML models (Logistic Regression, Naive Bayes, Random Forest, SVM, Gradient Boosting, MLP) into a single ensemble, served through a Flask app with a live confidence breakdown per model.
+### 🔍 [TruthLens — AI-Powered Fake News Detection](https://github.com/ishitapd/truthlens-fake-news-detector)
 
-Built to learn the full lifecycle — preprocessing, feature engineering, model comparison, and deployment — not just training a model and stopping. Currently trained on a synthetic dataset for architecture demonstration; next step is swapping in a real dataset (LIAR / FakeNewsNet) to get honest performance numbers instead of the inflated ones synthetic data gives you.
+An end-to-end NLP and machine learning web application that analyzes news text and predicts whether it is likely to be fake or real.
 
-`Python` `Flask` `Scikit-learn` `NLTK`
+Built with a complete workflow covering **text preprocessing, feature extraction, machine learning models, prediction, REST APIs, database integration, and deployment**. The project helped me work through the full ML lifecycle rather than stopping at model training.
 
+`Python` `Flask` `Scikit-learn` `NLP` `SQL` `REST APIs`
+
+### 📊 Sales & Business Performance Analytics
+
+A data analytics project focused on analyzing sales performance, business KPIs, trends, and product-level insights through data cleaning, analysis, and interactive dashboards.
+
+`Python` `SQL` `Power BI` `Excel` `Pandas` `Data Visualization`
+
+### 👥 Customer Churn & Retention Analytics
+
+An analytics project focused on understanding customer behavior, identifying churn patterns, and generating insights that can support customer retention and business decision-making.
+
+`Python` `SQL` `Power BI` `Pandas` `Data Cleaning` `Data Visualization`
+
+---
 
 ## What I'm looking for
-Software engineering roles (junior/entry-level) — remote or on-site — or freelance work in Python, ML/NLP, or full-stack (MERN). If you're building something and need an extra pair of hands, my inbox is open.
+
+I'm open to **entry-level opportunities** in **Data Analytics, Data Engineering, AI/ML, and Software Development (SDE)**.
+
+I'm also open to **remote opportunities and freelance projects** involving Python, SQL, data analytics, machine learning, backend development, or full-stack development.
+
+If you're building something and need an extra pair of hands, my inbox is open.
 
 ## Let's talk
+
 📫 [LinkedIn](https://www.linkedin.com/in/ishita-prasad-68968a238)
-📍 Based in Chandigarh, India — open to relocating or working remotely
+
+💻 [LeetCode](https://leetcode.com/u/Ishitaprasad7/)
+
+🌐 [TruthLens Live Demo](https://truthlens-gn2w.onrender.com/)
+
+📍 India — open to remote opportunities and relocation
 
 *If something here looks interesting, star it, fork it, or just say hi.*
 
