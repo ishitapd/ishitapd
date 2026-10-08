@@ -82,8 +82,6 @@ If you're building something and need an extra pair of hands, my inbox is open.
 
 🐙 [GitHub](https://github.com/ishitapd)
 
-🌐 [TruthLens Live Demo](https://truthlens-gn2w.onrender.com/)
-
 📍 India — open to remote opportunities and relocation
 
 *If something here looks interesting, star it, fork it, or just say hi.*
